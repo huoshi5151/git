@@ -1,4 +1,2 @@
-Gti is free software
-Gti is free software
-Gti is a distributed version control system
-第四行
+git is a distributed version control system.
+git is free software distributed under the GPL
